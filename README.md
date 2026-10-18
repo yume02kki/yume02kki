@@ -1,3 +1,3 @@
-Rust · C# · Kafka · Kubernetes
+Backend & data engineer
 
-[contact@haltura.me](mailto:contact@haltura.me) · [haltura.me](https://haltura.me)
+[contact@haltura.me](mailto:contact@haltura.me)
